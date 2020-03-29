@@ -6,7 +6,12 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
 
 <a align="right"><img src="https://github.com/ConstructStudios/GenBuckets/blob/master/GBucketImage.png"></img></a>
 
-Commands:
-/gbucket give <player> <lava/water> <material> <useable-amount> <amount>
-/gbucket giveBucket <player> <item> <amount>
-/gbucket reload : Reload all configurations
+- <h3>Installation:</h3>
+ 1. Download latest release or sucess. build
+ 2. Upload it to your server folder /plugins/
+ 3. Restart the server
+ 
+-  <h3>Commands:</h3>
+1. /gbucket give `<player> <lava/water> <material> <useable-amount> <amount>`
+2. /gbucket giveBucket (`<player> <item> <amount>`)
+3. /gbucket reload (`Reload all configurations`)
