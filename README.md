@@ -6,11 +6,11 @@ Installing this plugin on your server is super easy to do! Just download the .ph
 <p align="center">
   <b>Description:</b><br>
 Welcome to the GenBucket Plugin Page. This plugin is about generating walls with specified blocks with just a bucket. This plugin is very suitable for Faction servers because they can create walls conveniently.
-  
+  <div align="center">
 🦅 GenBuckets is simple plugin which allow Wall Generation on servers.
 
 <a align="right"><img src="https://github.com/ConstructStudios/GenBuckets/blob/master/GBucketImage.png"></img></a>
-<div align="center">
+
 </a>
     <br><br>
     ✔️ Simple setup
@@ -21,6 +21,9 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
     <br>
     And More
     <br>
+    
+</div>
+
 ---
 
 - <h3>How To Setup:</h3>
