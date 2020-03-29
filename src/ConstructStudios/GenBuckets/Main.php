@@ -4,7 +4,7 @@
  * Copyright (C) ConstructStudios - All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
- * Written by ConstructStudios Inc. <ConstructStudios@gmail.com>, ///////////////////DATE (March 28 2020)///////////////
+ * Written by ConstructStudios Inc <ConstructStudios@gmail.com>, ///////////////////DATE (March 28 2020)///////////////
  */
 
 namespace ConstructStudios\GenBuckets;
