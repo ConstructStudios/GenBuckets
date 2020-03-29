@@ -10,7 +10,7 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
 🦅 GenBuckets is simple plugin which allow Wall Generation on servers.
 
 <a align="right"><img src="https://github.com/ConstructStudios/GenBuckets/blob/master/GBucketImage.png"></img></a>
-
+<div align="center">
 </a>
     <br><br>
     ✔️ Simple setup
@@ -21,6 +21,7 @@ Welcome to the GenBucket Plugin Page. This plugin is about generating walls with
     <br>
     And More
     <br>
+---
 
 - <h3>How To Setup:</h3>
  1. Download latest release or sucess. build
