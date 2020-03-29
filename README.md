@@ -1,2 +1,2 @@
-# ReservedSlots
-🦅 ReservedSlots is simple plugin which allow slot reservation on server.
+# GenBuckets
+🦅 GenBuckets is simple plugin which allow Wall Generation on servers.
