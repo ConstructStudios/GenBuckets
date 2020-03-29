@@ -1,0 +1,9 @@
+name: GenBuckets
+description: GenBuckets
+version: 0.0.1
+main: ConstructStudios\GenBuckets\Main
+author: ConstructStudios
+api: [3.0.0]
+commands:
+ gbuy:
+  description: "Buyable GenBuckets"
